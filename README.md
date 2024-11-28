@@ -31,3 +31,11 @@ Microsoft Fabric Analytics, Data Pipeline, Data Flow Gen2, Power BI, OneLake Hub
 
  > [!NOTE]
  > If your data growth rate is slow and the data volume is small, you have other options: either connect the data directly from OneDrive to Power BI or integrate it directly into the data warehouse.
+
+
+ > [!TIP]
+ > You can also change the below pipeline structure.
+
+<img width="576" alt="data-pipeline-another-structure" src="https://github.com/user-attachments/assets/2793b9fb-923a-476c-814d-209798009b3a">
+
+
