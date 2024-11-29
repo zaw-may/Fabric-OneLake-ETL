@@ -3,7 +3,7 @@
  /*
  IF NOT EXISTS (SELECT * FROM sys.tables WHERE name='transactions' AND SCHEMA_NAME(schema_id)='final')
  	CREATE TABLE [final].[transactions] (
- 		[trans_id]          INTEGER NOT NULL,
+ 		     [trans_id]          INTEGER NOT NULL,
         [order_no]          VARCHAR(255),
         [project_name]      VARCHAR(255),
         [quotation_ref]     VARCHAR(255),
@@ -111,7 +111,7 @@
  --- Combination of Transactions and Logistics ---
  IF NOT EXISTS (SELECT * FROM sys.tables WHERE name='transactions_details' AND SCHEMA_NAME(schema_id)='final')
  	CREATE TABLE [final].[transactions_details] (
- 		[trans_id]                  INTEGER NOT NULL,
+ 		     [trans_id]                  INTEGER NOT NULL,
         [order_no]                  VARCHAR(255),
         [project_name]              VARCHAR(255),
         [quotation_ref]             VARCHAR(255),
