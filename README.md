@@ -1,3 +1,6 @@
+### Disclaimer
+This repository represents a real-world project. The information contained within is solely for demonstration purposes, showcasing a successfully completed project. No sensitive data, including Personally Identifiable Information (PII), client information, or any other confidential materials, has been used or included in this repository. Any resemblance to real individuals, companies, or sensitive data is purely coincidental.
+
 ### Objective 
 Transition from local Excel-based data reporting to automated, dynamic reporting using Power BI with Fabric Analytics Data Pipeline to reduce manual effort and improve accuracy.
 
