@@ -8,7 +8,7 @@ Transition from local Excel-based data reporting to automated, dynamic reporting
 Microsoft Fabric Analytics, Data Pipeline, Data Flow Gen2, Power BI, OneLake Hub, SQL, On-premises Data Gateway, Advanced Excel Macro VBA
 
 ### Process Flow
-![fabric-analytics-pipeline](https://github.com/user-attachments/assets/56094b10-b257-4c88-b162-d6e907e147ab)
+<img width="621" alt="fabric-analytics-pipeline" src="https://github.com/user-attachments/assets/9da35cb7-1950-403d-b5c2-c19ee05440b8" />
 
  ### Process Step-by-Step
  > To achieve the desired format for Excel data files in OneDrive, I utilize a Macro VBA script, generating the template to be completed with a single button click.
